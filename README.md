@@ -7,6 +7,10 @@ This repository provides the official PyTorch implementation of the following pa
     <img src="./figure/figure1.png">
 </p>
 
+<p align="center">
+    <img src="./figure/figure2.png">
+</p>
+
 ## Requirements
 To install requirements:
 
