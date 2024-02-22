@@ -138,6 +138,7 @@ This code is built on [UID-FDK](https://github.com/jdg900/UID-FDK),[U-GAT-IT](ht
 If you find these codes useful, please cite our related papers, shown as follows.
 
 [1]	H.-X. Tsai and L.-W. Kang, "Unsupervised cross domain learning for noise removal from a single image," Proc. IEEE International Conference on Imaging Systems and Techniques, Kaohsiung, Taiwan, 2022.
+
 [2]	H.-X. Tsai and L.-W. Kang, "Cross domain deep learning for noise removal from LDCT images," Proc. IEEE International Conference on Consumer Electronics-Taiwan, Taipei, Taiwan, 2022, pp. 475-476.
 
 
