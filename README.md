@@ -105,7 +105,9 @@ sh ./scripts/test_real.sh
 ```
 
 ### LDCT Noise
-1. Place the dataset in `./dataset/test` directory.
+1. Download the SIDD test dataset for evaluation in [here]([https://drive.google.com/drive/folders/1lNet_6YH-sAG3nkR1zb2EKSiFmek7ywQ?usp=sharing](https://drive.google.com/drive/folders/1uMoTq3bZxGcfdxITOjwpekLYX8BLijfX?usp=drive_link
+))
+2. Place the dataset in `./dataset/test` directory.
 ```
 dataset
 └─── train
@@ -114,7 +116,7 @@ dataset
      └─── SIDD_test
      └─── LDCT_test
 ```
-2. After that, run this command:
+3. After that, run this command:
 ```
 sh ./scripts/test_ldct.sh
 ```
